@@ -44,10 +44,10 @@ _The current offer is for a contractor position._
 
 ## The tech challenge
 
-_You'll be asked of developing a small application using thw best of your knowledges taking into account best practices and code reusability.
+_You'll be asked of developing a small application using the best of your knowledges, taking into account best practices and code reusability.
 We also want you to have fun with this!_
 
-Take the test and submit your solution by add @aptalpaca to your repository. 
+Take the test and submit your solution by adding @aptalpaca to your repository. 
 We don't ask you any preliminary interview. We love to read your code first, so take the test only if you want to!
 
 ### Test description
