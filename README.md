@@ -1,5 +1,5 @@
 # ALPACA TECH 
-## Tech challenge (JS Full-stack Developer)
+## Tech challenge (JS Mid Full-stack Developer)
 
 ### Who we are
 
