@@ -32,6 +32,14 @@ _The current offer is for a contractor position._
 - Terraform, Ansible
 - GraphQL
 
+### What we offer:
+
+- 100% remote (we believe in trust and autonomy)
+- Competitive salary (35-48k)
+- Flexible schedule
+- Diversive and international team
+- Real impact on a fast-growing innovative technology company
+
 ---
 
 ## The tech challenge
