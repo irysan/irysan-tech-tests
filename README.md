@@ -1,4 +1,4 @@
-# ALPACA TECH 
+# IRYSAN
 ## Tech challenge (JS Mid Full-stack Developer)
 
 ### Who we are
@@ -47,7 +47,7 @@ _The current offer is for a contractor position._
 _You'll be asked of developing a small application using the best of your knowledges, taking into account best practices and code reusability.
 We also want you to have fun with this!_
 
-Take the test and submit your solution by adding @aptalpaca to your repository. 
+Take the test and submit your solution by adding @irysan to your repository. 
 We don't ask you any preliminary interview. We love to read your code first, so take the test only if you want to!
 
 ### Test description
