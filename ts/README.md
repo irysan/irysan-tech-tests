@@ -3,7 +3,7 @@
 _You'll be asked of developing a small application using the best of your knowledges, taking into account best practices and code reusability.
 We also want you to have fun with this!_
 
-Take the test and submit your solution by adding @irysan to your repository. 
+Take the test and submit your solution by adding @irysan to your repository. Please don't use the word Irysan on your repo name.
 We don't ask you any preliminary interview. We love to read your code first, so take the test only if you want to!
 
 ### Test description
@@ -20,8 +20,8 @@ Optional
 - Show a list of favourite
 - Display details of favourite asteroids by click on the items form the list
 
-Don't forget that this must be a full-stack application.
-
+*Don't forget that this must be a full-stack application.*
+We expect an app with the implementation of a backend and a frontend side.
 
 Use the following API:
 
