@@ -1,6 +1,6 @@
 ## The tech challenge
 
-_You'll be asked of developing a small application using the best of your knowledges, taking into account best practices and code reusability.
+_You'll be asked of developing a small full-stack application (with both backend and frontend) using the best of your knowledges, taking into account best practices and code reusability.
 We also want you to have fun with this!_
 
 Take the test and submit your solution by adding @irysan to your repository. Please don't use the word Irysan on your repo name.
