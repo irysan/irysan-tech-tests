@@ -3,7 +3,7 @@
 _You'll be asked of developing a small full-stack application (with both backend and frontend) using the best of your knowledges, taking into account best practices and code reusability.
 We also want you to have fun with this!_
 
-Take the test and submit your solution by adding @irysan to your repository. Please don't use the word Irysan on your repo name.
+Take the test and submit us your solution. Please don't use the word Irysan on your repo name.
 We're keen on reading your code, so take the test only if you want to!
 
 ### Test description
