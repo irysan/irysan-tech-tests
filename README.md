@@ -1,5 +1,4 @@
 # IRYSAN
-## Tech challenge (JS Mid Full-stack Developer)
 
 ### Who we are
 
