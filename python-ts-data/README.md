@@ -29,7 +29,7 @@ To assist with converting the dataset into a format suitable for your API, you c
 
 ## Task Overview:
 You are required to build a RESTful API that:
-1. Loads the dataset (or a subset of one year's data) into memory for querying and analytics.
+1. Loads the dataset into memory for querying and analytics.
 2. Exposes endpoints that allow basic interaction with the data, including CRUD operations and basic statistics.
 3. Containerizes the application using Docker.
 
