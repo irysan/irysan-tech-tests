@@ -25,7 +25,7 @@ You will create a RESTful API to allow users to query, filter, and perform basic
 Depending on your API's functionality, you might opt for either format to handle air quality data efficiently.
 
 ## Data Preparation:
-To assist with converting the dataset into a format suitable for your API, you could convert netCDF/GeoTIFF file to JSON format.
+To assist with the dataset you could convert netCDF/GeoTIFF file to a format suitable for your API.
 
 ## Task Overview:
 You are required to build a RESTful API that:
