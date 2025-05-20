@@ -7,7 +7,7 @@
 *.code-workspace
 
 # IntelliJ IDEA specific files
-.idea/
+.idea
 *.iml
 *.ipr
 *.iws
